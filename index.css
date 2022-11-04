@@ -10,7 +10,7 @@ body{
 .background{
 	min-height:100rem;
 	background-color: gray;
-	background-image: url('https://github.com/johnapo2022/webportfolio/blob/master/Images/bg2.jpg') ;
+	background-image: url("./Images/bg2.jpg") ;
 	
 	background-size: 100%;
 	background-attachment: fixed;
