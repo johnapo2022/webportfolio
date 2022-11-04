@@ -11,7 +11,7 @@ body{
 	min-height:100rem;
 	background-color: gray;
 	background-image: url("./Images/bg2.jpg") ;
-	
+	width: 100%;
 	background-size: 90%;
 	background-attachment: fixed;
 }
