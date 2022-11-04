@@ -10,7 +10,7 @@ body{
 .background{
 	min-height:100rem;
 	background-color: gray;
-	background-image: url('C:Users/japo/Documents/Vertere Training/S13-S14/MyPortfolio/Images/bg2.jpg') ;
+	background-image: url('./Images/bg2.jpg') ;
 	
 	background-size: 100%;
 	background-attachment: fixed;
