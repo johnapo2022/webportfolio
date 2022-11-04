@@ -13,11 +13,11 @@ body{
 
 .background{
 	min-height:100rem;
-	background-color: gray;
+	background-color: #00000;
 	background-image: url("./Images/bg2.jpg") ;
 	width: 100%;
 	background-size: 90%;
-	background-attachment: fixed;
+	background-attachment: scroll;
 }
 .textcolor{
 	color: #FCA311;
@@ -28,7 +28,10 @@ body{
 	width: 100%;
 }
 .welcome{
-	font-size: 80px;
+	font-size: 60px;
+}
+.about-me{
+	font-size: 25px;
 }
 .g-font{
 font-family: "Audiowide" !important;	
